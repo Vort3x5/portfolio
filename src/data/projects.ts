@@ -30,12 +30,6 @@ export const projects: Project[] = [
     tags: ['STM32', 'Embedded', 'Hardware'],
     featured: true,
   },
-  {
-    name: 'STM32-ESP32',
-    repo: 'Vort3x5/STM32-ESP32',
-    category: 'Embedded & Hardware',
-    tags: ['STM32', 'ESP32', 'IoT'],
-  },
 
   // Cybersecurity & HDL
   {
@@ -47,12 +41,6 @@ export const projects: Project[] = [
   },
 
   // Game Development
-  {
-    name: 'CaveGame2D',
-    repo: 'Vort3x5/CaveGame2D',
-    category: 'Game Development',
-    tags: ['Python', 'Pygame', 'Game'],
-  },
   {
     name: 'Cmpl',
     repo: 'Vort3x5/Cmpl',
@@ -81,12 +69,6 @@ export const projects: Project[] = [
     repo: 'Vort3x5/OI_Prep',
     category: 'Algorithms',
     tags: ['Algorithms', 'Competitive Programming', 'C++'],
-  },
-  {
-    name: 'Visual-Sort',
-    repo: 'Vort3x5/Visual-Sort',
-    category: 'Algorithms',
-    tags: ['Sorting', 'Visualization', 'C++'],
   },
 ];
 
